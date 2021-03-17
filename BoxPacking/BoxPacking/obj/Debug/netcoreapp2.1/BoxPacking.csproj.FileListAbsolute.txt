@@ -1,0 +1,11 @@
+C:\Users\ejnar\source\repos\BoxPacking\BoxPacking\bin\Debug\netcoreapp2.1\BoxPacking.deps.json
+C:\Users\ejnar\source\repos\BoxPacking\BoxPacking\bin\Debug\netcoreapp2.1\BoxPacking.runtimeconfig.json
+C:\Users\ejnar\source\repos\BoxPacking\BoxPacking\bin\Debug\netcoreapp2.1\BoxPacking.runtimeconfig.dev.json
+C:\Users\ejnar\source\repos\BoxPacking\BoxPacking\bin\Debug\netcoreapp2.1\BoxPacking.dll
+C:\Users\ejnar\source\repos\BoxPacking\BoxPacking\bin\Debug\netcoreapp2.1\BoxPacking.pdb
+C:\Users\ejnar\source\repos\BoxPacking\BoxPacking\obj\Debug\netcoreapp2.1\BoxPacking.csprojAssemblyReference.cache
+C:\Users\ejnar\source\repos\BoxPacking\BoxPacking\obj\Debug\netcoreapp2.1\BoxPacking.csproj.CoreCompileInputs.cache
+C:\Users\ejnar\source\repos\BoxPacking\BoxPacking\obj\Debug\netcoreapp2.1\BoxPacking.AssemblyInfoInputs.cache
+C:\Users\ejnar\source\repos\BoxPacking\BoxPacking\obj\Debug\netcoreapp2.1\BoxPacking.AssemblyInfo.cs
+C:\Users\ejnar\source\repos\BoxPacking\BoxPacking\obj\Debug\netcoreapp2.1\BoxPacking.dll
+C:\Users\ejnar\source\repos\BoxPacking\BoxPacking\obj\Debug\netcoreapp2.1\BoxPacking.pdb
